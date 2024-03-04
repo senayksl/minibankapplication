@@ -1,4 +1,4 @@
-bank-application is the backend file
+bank-application is the backend folder
 
 "npm install" then
 "npm start"
